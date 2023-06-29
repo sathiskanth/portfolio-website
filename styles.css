@@ -1,0 +1,40 @@
+ #main-title {
+    color: blue;
+
+ }
+
+ table {
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
+
+ th {
+    border: 1px solid black;
+    padding: 4px;
+
+
+ }
+
+ table {
+    border: 1px solid black;
+    border: 1px solid black;
+
+
+ }
+
+ th, td {
+    border: 1px solid black;
+    padding: 4px
+ }
+
+ h1 {
+    color: cadetblue; 
+    text-align:center;
+ }
+
+ #about-title, #edu-title, #hobby-title {
+   color: maroon
+
+ }
+ 
+ 
